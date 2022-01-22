@@ -1,0 +1,7 @@
+.vs/
+ipch/
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+*.VC.db
